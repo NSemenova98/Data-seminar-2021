@@ -20,9 +20,8 @@ https://zenodo.org/record/4579443#.YEAECOomziA
 ## Ограничения на материал, легальность
 Ограничения отсутствуют 
 ## Лицензия
-Creative Commons Attribution 3.0
+Creative Commons Attribution 4.0
 
-Версия методических рекомендаций по данным источника: 3.0 (http://opendata.gosmonitor.ru/standard/3.0) 
 ## Авторство
 Автор материала: Семенова Наталья, e-mail nssemenova@edu.hse.ru
 
